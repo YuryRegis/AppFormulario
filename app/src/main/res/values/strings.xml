@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- ACTIVITY MAIN -->
+
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="todo">TODO</string>
+    <string name="rating">Nota:</string>
+    <string name="cliente">Nome:</string>
+    <string name="_0_a_10">0 a 10</string>
+    <string name="textview">TextView</string>
+    <string name="btSalvar">Cadastrar</string>
+    <string name="app_name">Formulario</string>
+    <string name="cupom">Aceita cupons:</string>
+    <string name="btVisualizar">Ver lista</string>
+    <string name="seguimento">Seguimento:</string>
+    <string name="aceita_cupom">Aceita cupom?</string>
+    <string name="titulo_main">Adicionar cliente</string>
+
+    <!-- ACTIVITY LISTA -->
+
+    <string name="tituloListaTV">Lista de clientes</string>
+
+    <!-- ACTIVITY CELULA -->
+
+    <string name="cupomCel">Aceita cupons?</string>
+    <string name="tituloCel">Nome_do_cliente</string>
+    <string name="title_activity_splash">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
